@@ -10,7 +10,5 @@ Geospatial data is goldmine right now and kepler.gl is a wonderful Python librar
  A very short overview of the kepler.gl package has been demonstrated in the given Jupyter notebook. Just have a look and deep dive at the [documentation](https://docs.kepler.gl/docs/api-reference) to explore more :smile:
  
  The visualizations look super cool !!
- 
- ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/29462447/85634225-858b3b00-b698-11ea-8f8a-935772762974.gif)
 
- <img src="https://user-images.githubusercontent.com/29462447/85634225-858b3b00-b698-11ea-8f8a-935772762974.gif" width="1000" height="600"/>
+ <img src="https://user-images.githubusercontent.com/29462447/85634225-858b3b00-b698-11ea-8f8a-935772762974.gif" width="1000" height="550"/>
