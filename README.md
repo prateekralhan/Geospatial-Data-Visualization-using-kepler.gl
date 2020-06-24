@@ -13,4 +13,4 @@ Geospatial data is goldmine right now and kepler.gl is a wonderful Python librar
  
  ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/29462447/85634225-858b3b00-b698-11ea-8f8a-935772762974.gif)
 
- <img src="https://user-images.githubusercontent.com/29462447/85634225-858b3b00-b698-11ea-8f8a-935772762974.gif" width="250" height="250"/>
+ <img src="https://user-images.githubusercontent.com/29462447/85634225-858b3b00-b698-11ea-8f8a-935772762974.gif" width="1000" height="800"/>
